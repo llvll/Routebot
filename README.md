@@ -22,6 +22,6 @@ The following results are expected:
 2. Discovered and classified motion patterns - similar to MotionML project above.
 3. Video georeferencing or spatio-temporal referencing - GPS geotagging might be present for frame #1, trajectory data will extrapolate geotagging to the next frames. Clock synchronization should take place.
 
-IPython Notebook (.ipynb file) is included for step-by-step execution of the demo application with extra comments.
+IPython Notebooks (.ipynb files) are included for step-by-step execution of the demo applications and the installation instructions with extra comments.
 
 Please feel free to ask any questions: oleg.v.puzanov@gmail.com
