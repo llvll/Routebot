@@ -1,5 +1,5 @@
 # Routebot
-##Trajectory data mining from GoPro videos using Visual SLAM and Visual Odometry.
+###Trajectory data mining from GoPro videos using Visual SLAM and Visual Odometry.
 
 I've started working on a project about the trajectory data mining from videos - for example: snowboarding video from GoPro action camera.
 
